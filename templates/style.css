@@ -1,0 +1,19 @@
+.container {
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+}
+
+input[type="text"], input[type="password"] {
+    padding: 10px;
+    margin: 5px;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
