@@ -4,4 +4,4 @@ You are the wlan i want
 on clicking connect user is redirected to. Web page 
 you register if not done so and then log in to the network 
 username and password is stored in database 
-THE CODE IS BIT INCOMPLETE FEEL FREE TO COLLABORATE 
+THE CODE IS BIT INCOMPLETE FEEL FREE TO COLLABORATE AND TESTING
